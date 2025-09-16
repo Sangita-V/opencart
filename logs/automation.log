@@ -1,0 +1,22 @@
+2025-09-11 17:16:38 INFO  TC001_AccountRegistration:15 - **** Excution started for TC001_AccountRegistration ****
+2025-09-11 17:16:38 INFO  TC001_AccountRegistration:20 - Clicked on Account link
+2025-09-11 17:16:39 INFO  TC001_AccountRegistration:23 - Clicked on Registration link
+2025-09-11 17:16:39 INFO  TC001_AccountRegistration:26 - Registration page opened
+2025-09-11 17:16:39 INFO  TC001_AccountRegistration:28 - Entering user data
+2025-09-11 17:16:41 INFO  TC001_AccountRegistration:41 - Validating expected message
+2025-09-11 17:16:41 INFO  TC001_AccountRegistration:51 - **** Finished TC001_AccountRegistration ****
+2025-09-16 18:05:58 INFO  TC001_AccountRegistration:15 - **** Excution started for TC001_AccountRegistration ****
+2025-09-16 18:05:59 INFO  TC001_AccountRegistration:20 - Clicked on Account link
+2025-09-16 18:05:59 INFO  TC001_AccountRegistration:23 - Clicked on Registration link
+2025-09-16 18:05:59 INFO  TC001_AccountRegistration:26 - Registration page opened
+2025-09-16 18:05:59 INFO  TC001_AccountRegistration:28 - Entering user data
+2025-09-16 18:06:02 INFO  TC001_AccountRegistration:41 - Validating expected message
+2025-09-16 18:06:02 INFO  TC001_AccountRegistration:51 - **** Finished TC001_AccountRegistration ****
+2025-09-16 18:06:05 INFO  TC002_AccountLogin:16 - **** Started TC002_AccountLogin ****
+2025-09-16 18:06:06 INFO  TC002_AccountLogin:20 - Clicked on My Account link
+2025-09-16 18:06:06 INFO  TC002_AccountLogin:23 - Clicked on Login link
+2025-09-16 18:06:06 INFO  TC002_AccountLogin:25 - Entering login data
+2025-09-16 18:06:07 INFO  TC002_AccountLogin:30 - Logged in Successfully with email id : abc450@gmail.com 
+2025-09-16 18:06:07 INFO  TC002_AccountLogin:32 - Validating Page Title
+2025-09-16 18:06:07 INFO  TC002_AccountLogin:40 - Validating My Account Page text
+2025-09-16 18:06:07 INFO  TC002_AccountLogin:44 - **** Finished TC002_AccountLogin ****
